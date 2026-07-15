@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "8f12d5c2a74c1342",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf9e8117c13290d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1acb4d0120b2771d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5612c52630e5e226",
+    "type": "split",
+    "children": [
+      {
+        "id": "a477f1ea625d1b00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b223dfdc18c42d19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0373bff621871153",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "10ec8be80f7a2710",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 486.40000000000003
+  },
+  "right": {
+    "id": "f477dfc3afc0219d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab21bda95c2edf53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10a1aa1999491407",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "379d1ec09cbe3b3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "12d5c423608745a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f7df8d725549a466",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f497ae1553d68db5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1acb4d0120b2771d",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "episodes/ep27-counter-trend-ideas/nq-counter-trend-long.md",
+    "episodes/ep27-counter-trend-ideas/README.md",
+    "episodes/ep27-counter-trend-ideas",
+    "episodes/ep26-tape-reading-practice/es-tape-reading-long.md",
+    "episodes/ep26-tape-reading-practice/README.md",
+    "episodes/ep26-tape-reading-practice",
+    "episodes/ep25-daily-rebalance-theory/es-daily-rebalance-short.md",
+    "episodes/ep25-daily-rebalance-theory/README.md",
+    "episodes/ep25-daily-rebalance-theory",
+    "concepts/daily-rebalance.md",
+    "episodes/ep24-avoid-this-enter-properly/no-trade-vs-proper-entry.md",
+    "episodes/ep24-avoid-this-enter-properly/README.md",
+    "episodes/ep24-avoid-this-enter-properly",
+    "episodes/ep23-post-fomc-tape-reading-fib-channels/mnq-post-fomc-tape.md",
+    "episodes/ep23-post-fomc-tape-reading-fib-channels/README.md",
+    "episodes/ep23-post-fomc-tape-reading-fib-channels",
+    "episodes/ep22-smt-divergence/es-nq-smt-short.md",
+    "episodes/ep22-smt-divergence/README.md",
+    "episodes/ep22-smt-divergence",
+    "concepts/smt-divergence.md",
+    "episodes/ep21-risk-on-risk-off/dxy-regime-es-short.md",
+    "episodes/ep21-risk-on-risk-off/README.md",
+    "episodes/ep21-risk-on-risk-off",
+    "concepts/risk-on-risk-off.md",
+    "episodes/ep20-london-session-forex/dxy-eur-london-short.md",
+    "episodes/ep20-london-session-forex/README.md",
+    "episodes/ep20-london-session-forex",
+    "episodes/ep19-order-blocks-judas-swing-po3/es-youtube-model-long.md",
+    "episodes/ep19-order-blocks-judas-swing-po3/README.md",
+    "episodes/ep19-order-blocks-judas-swing-po3",
+    "episodes/ep18-order-block-theory-insights/eurusd-ob-short.md",
+    "episodes/ep18-order-block-theory-insights/README.md",
+    "episodes/ep18-order-block-theory-insights",
+    "episodes/ep17-forex-application-model/eurusd-short-example.md",
+    "episodes/ep17-forex-application-model/README.md"
+  ]
+}
